@@ -1,2 +1,2 @@
 # news_sources
-News sources daily news sources Application 
+Daily news  read sources Application  ( Always Current Time  News Update )
