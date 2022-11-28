@@ -5,8 +5,8 @@ function News() {
   const [state, setState] = useState([]);
 
   function onClickHandler() {
-    axios
-      .get(
+  
+    axios.get(
         "https://newsapi.org/v2/top-headlines?country=in&apiKey=5f6540a1b63140d382d8a8f301a898f1"
       )
       .then((response) => {
