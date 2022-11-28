@@ -1,2 +1,2 @@
 # news_sources
-news sources Daily news sources Application 
+News sources daily news sources Application 
